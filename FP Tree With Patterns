@@ -1,0 +1,1 @@
+This project implements the Frequent Pattern (FP) Growth algorithm using an FP-Tree (Frequent Pattern Tree) data structure. FP-Growth is a popular method in association rule mining that efficiently discovers frequent itemsets in large datasets without generating candidate sets like Apriori
